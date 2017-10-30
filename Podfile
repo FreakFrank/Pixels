@@ -8,4 +8,5 @@ target 'Pixels' do
   # Pods for Pixels
   pod 'Alamofire', '~> 4.5'
   pod 'AlamofireImage', '~> 3.3'
+  pod 'SwiftyJSON'
 end

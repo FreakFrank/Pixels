@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "71e325968f33dea88ff7aac8c1a8967a"
+build_time: [1509282948, 275034000]
+inputs:
+  "/Users/kareemismail/XCodeProjects/Pixels/Pixels/PhotoInfo.swift": [1509203626, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pixels/PopVC.swift": [1509232475, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pixels/MapVC.swift": [1509282945, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pixels/PhotoCell.swift": [1509282948, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pixels/DroppablePin.swift": [1505383118, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pixels/AppDelegate.swift": [1504816812, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pixels/Constants.swift": [1509192743, 0]

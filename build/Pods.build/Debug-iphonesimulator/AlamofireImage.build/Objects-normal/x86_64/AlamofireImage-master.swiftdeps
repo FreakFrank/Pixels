@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "4cba149cdfcc4e598e95ce6c1369a63d"
+build_time: [1509228623, 707407000]
+inputs:
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/AlamofireImage/Source/AFIError.swift": [1504817924, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/AlamofireImage/Source/Image.swift": [1504817924, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/AlamofireImage/Source/ImageCache.swift": [1504817924, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/AlamofireImage/Source/ImageDownloader.swift": [1504817924, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/AlamofireImage/Source/ImageFilter.swift": [1504817924, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1504817924, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1504817924, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1504817924, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1504817924, 0]

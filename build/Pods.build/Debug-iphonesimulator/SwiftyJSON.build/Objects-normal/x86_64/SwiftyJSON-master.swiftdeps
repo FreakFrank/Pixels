@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "e9c20e81f84a4ae531c499c9f75f6ac3"
+build_time: [1509228620, 328697000]
+inputs:
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1509201107, 0]

@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "87cd4b2e1fc1e06fe47dcd4a0e3ae6e1"
+build_time: [1508792033, 504893000]
+inputs:
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/Alamofire/Source/AFError.swift": [1504817741, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/Alamofire/Source/Alamofire.swift": [1504817741, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1504817741, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/Alamofire/Source/MultipartFormData.swift": [1504817741, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1504817741, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/Alamofire/Source/Notifications.swift": [1504817741, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/Alamofire/Source/ParameterEncoding.swift": [1504817741, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/Alamofire/Source/Request.swift": [1504817741, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/Alamofire/Source/Response.swift": [1504817741, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/Alamofire/Source/ResponseSerialization.swift": [1504817741, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/Alamofire/Source/Result.swift": [1504817741, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1504817741, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/Alamofire/Source/SessionDelegate.swift": [1504817741, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/Alamofire/Source/SessionManager.swift": [1504817741, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/Alamofire/Source/TaskDelegate.swift": [1504817741, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/Alamofire/Source/Timeline.swift": [1504817741, 0]
+  "/Users/kareemismail/XCodeProjects/Pixels/Pods/Alamofire/Source/Validation.swift": [1504817741, 0]

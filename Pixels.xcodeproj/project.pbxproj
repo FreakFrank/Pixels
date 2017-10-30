@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F0CE2D51F6EBFC40071CAC2 /* PhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F0CE2D41F6EBFC40071CAC2 /* PhotoCell.swift */; };
+		2F0D90B51F6A890400A601F0 /* DroppablePin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F0D90B41F6A890400A601F0 /* DroppablePin.swift */; };
+		2F0D90B71F6A8F1C00A601F0 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F0D90B61F6A8F1C00A601F0 /* Constants.swift */; };
+		2F0E22251F9E8E5300ABC4D0 /* PopVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F0E22241F9E8E5300ABC4D0 /* PopVC.swift */; };
+		2F4D1AE91FA4D128007D2A0B /* PhotoInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D1AE81FA4D128007D2A0B /* PhotoInfo.swift */; };
 		2FEFF7B21F61E62C00252327 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FEFF7B11F61E62C00252327 /* AppDelegate.swift */; };
 		2FEFF7B41F61E62C00252327 /* MapVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FEFF7B31F61E62C00252327 /* MapVC.swift */; };
 		2FEFF7B71F61E62C00252327 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FEFF7B51F61E62C00252327 /* Main.storyboard */; };
@@ -17,6 +22,11 @@
 
 /* Begin PBXFileReference section */
 		204803D4DBC03A73C9D21F4C /* Pods-Pixels.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pixels.release.xcconfig"; path = "Pods/Target Support Files/Pods-Pixels/Pods-Pixels.release.xcconfig"; sourceTree = "<group>"; };
+		2F0CE2D41F6EBFC40071CAC2 /* PhotoCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoCell.swift; sourceTree = "<group>"; };
+		2F0D90B41F6A890400A601F0 /* DroppablePin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DroppablePin.swift; sourceTree = "<group>"; };
+		2F0D90B61F6A8F1C00A601F0 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		2F0E22241F9E8E5300ABC4D0 /* PopVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopVC.swift; sourceTree = "<group>"; };
+		2F4D1AE81FA4D128007D2A0B /* PhotoInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoInfo.swift; sourceTree = "<group>"; };
 		2FEFF7AE1F61E62C00252327 /* Pixels.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pixels.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FEFF7B11F61E62C00252327 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2FEFF7B31F61E62C00252327 /* MapVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapVC.swift; sourceTree = "<group>"; };
@@ -48,6 +58,14 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		2F4D1AEA1FA4D1BE007D2A0B /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				2F4D1AE81FA4D128007D2A0B /* PhotoInfo.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
 		2FEFF7A51F61E62C00252327 = {
 			isa = PBXGroup;
 			children = (
@@ -69,6 +87,7 @@
 		2FEFF7B01F61E62C00252327 /* Pixels */ = {
 			isa = PBXGroup;
 			children = (
+				2F4D1AEA1FA4D1BE007D2A0B /* Model */,
 				2FEFF7C61F61E64700252327 /* View */,
 				2FEFF7C51F61E64200252327 /* Controller */,
 				2FEFF7C41F61E63B00252327 /* Utilities */,
@@ -92,6 +111,7 @@
 		2FEFF7C41F61E63B00252327 /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
+				2F0D90B61F6A8F1C00A601F0 /* Constants.swift */,
 			);
 			name = Utilities;
 			sourceTree = "<group>";
@@ -100,6 +120,7 @@
 			isa = PBXGroup;
 			children = (
 				2FEFF7B31F61E62C00252327 /* MapVC.swift */,
+				2F0E22241F9E8E5300ABC4D0 /* PopVC.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -107,6 +128,8 @@
 		2FEFF7C61F61E64700252327 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				2F0D90B41F6A890400A601F0 /* DroppablePin.swift */,
+				2F0CE2D41F6EBFC40071CAC2 /* PhotoCell.swift */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -244,8 +267,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F4D1AE91FA4D128007D2A0B /* PhotoInfo.swift in Sources */,
+				2F0E22251F9E8E5300ABC4D0 /* PopVC.swift in Sources */,
 				2FEFF7B41F61E62C00252327 /* MapVC.swift in Sources */,
+				2F0CE2D51F6EBFC40071CAC2 /* PhotoCell.swift in Sources */,
+				2F0D90B51F6A890400A601F0 /* DroppablePin.swift in Sources */,
 				2FEFF7B21F61E62C00252327 /* AppDelegate.swift in Sources */,
+				2F0D90B71F6A8F1C00A601F0 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,7 +340,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -357,7 +385,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";

@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "014D97244EF2E61AE5A3F4A98115AB7D"
+               BlueprintIdentifier = "BA05B2CABF6ADB152001C085825E4D9D"
                BuildableName = "Pods_Pixels.framework"
                BlueprintName = "Pods-Pixels"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -26,6 +26,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
@@ -36,6 +37,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -45,7 +47,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "014D97244EF2E61AE5A3F4A98115AB7D"
+            BlueprintIdentifier = "BA05B2CABF6ADB152001C085825E4D9D"
             BuildableName = "Pods_Pixels.framework"
             BlueprintName = "Pods-Pixels"
             ReferencedContainer = "container:Pods.xcodeproj">
